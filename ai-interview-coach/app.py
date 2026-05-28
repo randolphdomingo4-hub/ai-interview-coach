@@ -1,6 +1,3 @@
-A beginner Python project that evaluates interview answers using scoring rules, keyword detection, and structured feedback. 
-
-
 def score_answer(answer):
  if len(answer) < 50:
   return 40, "Your answer is too short. Add more details and examples."
