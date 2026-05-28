@@ -31,6 +31,16 @@ Overall Score: 90
 
 Final Recommendation: Good technical answer. Improve grammar, spelling, and add measurable results such as downtime reduction, defect reduction, or cycle time improvement.
 
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the Python file:
+
+`python app.py`
+
+4. Enter the target role and interview answer when prompted.
+
 ## Future Improvements
 - Add AI API integration
 - Add grammar correction
