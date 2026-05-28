@@ -1,6 +1,6 @@
 # AI Interview Coach V1
 
-A beginner Python project that evaluates interview answers based on length, engineering keywords, and structured feedback.
+A beginner Python project that evaluates interview answers using scoring rules, keyword detection, and structured feedback. 
 
 ## Features
 - Accepts target job role
